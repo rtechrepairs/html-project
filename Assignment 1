@@ -1,0 +1,167 @@
+<h1 style="text-align: center;"><strong>Lorenzo Dougharty</strong></h1>
+<head>
+<style>
+/* Thick Blue Line */
+hr.LorenzoDougharty
+{  border: 10px solid blue; border-radius:6px;}
+</style>
+</head>
+<hr class="LorenzoDougharty">
+<h1 style="text-align: center;"><strong>Education Background</strong></h1>
+<head>
+<style>
+/* Thick Black Line*/
+hr.EducationBackground
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="EducationBackground">
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">Ardenne Preparatory School,</p>
+<p style="text-align: left;">Hope Valley Experimental Primary School,</p>
+<p style="text-align: left;">Excelsior High School</p>
+<p style="text-align: left;">UWI School of Continung Studies</p>
+<ul>
+<li style="text-align: left;">Web Page Design HTML</li>
+<li style="text-align: left;">Supervisory Management</li>
+</ul>
+<p style="text-align: left;">Heart Trust NTA</p>
+<ul>
+<li style="text-align: left;">Computer Repairs Level 2</li>
+<li style="text-align: left;">Computer Repairs Level 3</li>
+</ul>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">University of The West Indies</p>
+<ul>
+<li style="text-align: left;">BeD Information Technogolgy/Computer Sciences and Education</li>
+</ul>
+<p style="text-align: left;">&nbsp;</p>
+<h1 style="text-align: center;"><strong>Upbringing</strong></h1>
+<p style="text-align: left;">&nbsp;</p>
+<head>
+<style>
+/* Thick Black Line*/
+hr.upbringing
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="Upbringing">
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">I was raised in several areas longest being East Kingston</p>
+<p style="text-align: left;">&nbsp;</p>
+<h1 style="text-align: center;"><strong>Goals</strong></h1>
+<head>
+<style>
+/* Thick Black Line*/
+hr.Goals
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="Goals">
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">My Goals after graduating is to give back to persons offering volunteer work.</p>
+<p style="text-align: left;">Establishing my present business; Specializing in Infrastructure and data recovery.</p>
+<p style="text-align: left;">Possible teaching online from a virtual environment.</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">Masters in Information Systems</p>
+<H1 style="text-align: center;">Books I am Interested in Currently.</h1>
+<head>
+<style>
+/* Thick Black Line*/
+hr.Books
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="Books">
+<table style="width: 300px; border-color: black; float: left;" border="1">
+<tbody>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;Seven Habits of Highly Effective People</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;Art of War</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;High Performance Habits</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;The Subtle Art of not giving a f$%k</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;Rich dad Poor Dad</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 125px; height: 13px;">&nbsp;The Power of Kindness</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 style="text-align: center;">Useful Technology Websites</h1>
+<head>
+<style>
+/* Thick Black Line*/
+hr.websites
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="websites">
+<p>&nbsp;</p>
+<ul>
+<li><a title="Macrumors" href="https://www.macrumors.com/" target="_blank">https://www.macrumors.com/</a></li>
+<li><a title="Techradar" href="https://www.techradar.com/" target="_blank">https://www.techradar.com/</a></li>
+<li><a title="Techcrunch" href="https://techcrunch.com/" target="_blank">https://techcrunch.com/</a>&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Html Assignment 1 Feedback</h2>      
+<head>
+<style>
+/* Thick Black Line*/
+hr.Feedback
+{  border: 5px solid black; border-radius: 6px}
+</style>
+</head>
+<hr class="Feedback">  
+<form action="/" target="_blank">
+         <p>Please fill out online feedback form. This will allow improvements to be done. 
+        </p>
+        <h4>Name</h4>
+        <input type="text" name=" First" placeholder="First" />
+        <br>
+        <br>
+        <input type="text" name="Last" placeholder="Last" />
+        <h4>Email Address</h4>
+        <input type="text"/>
+        <h4>What are your thoughts on this webpage:</h4>
+         <form>
+            <input type="radio" name="response" value="Very Satisfied" > Very Satisfied 
+            <br>
+            <input type="radio" name="response" value="Satisfied" > Satisfied 
+            <br>
+            <input type="radio" name="response" value="Unsatisfied" > Unsatisfied 
+            <br>
+            <input type="radio" name="response" value="Very Unsatisfied" > 
+ Very Unsatisfied 
+         <br>
+
+        </form>
+        <h4>Add any other comments or suggestions:</h4>
+        <textarea rows="5" cols="50"></textarea>
+        <small>
+        <br>
+        The information given within the Feedback Form will be used for website 
+         improvement.
+        </small>
+        <br><br>
+        <button type="submit" href="/">Send Feedback</button>
+        
+    </body>
+</html>
